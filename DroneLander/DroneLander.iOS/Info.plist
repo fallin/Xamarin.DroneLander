@@ -46,5 +46,9 @@
 		<string>Icon-Small@2x</string>
 		<string>Icon-Small@3x</string>
 	</array>
+  <key>UIAppFonts</key>
+  <array>
+    <string>Fonts\Digital.ttf</string>
+  </array>
 </dict>
 </plist>

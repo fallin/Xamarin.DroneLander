@@ -42,6 +42,7 @@
     <Compile Include="Common\CoreConverters.cs" />
     <Compile Include="Common\ObservableBase.cs" />
     <Compile Include="Common\RelayCommand.cs" />
+    <Compile Include="Effects\DigitalFontEffect.cs" />
     <Compile Include="Models\LandingParameters.cs" />
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
